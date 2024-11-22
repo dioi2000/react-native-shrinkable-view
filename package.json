@@ -1,6 +1,6 @@
 {
   "name": "react-native-shrinkable-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "easy responsive react-native UI with static sized view",
   "main": "ShrinkableView.tsx",
   "peerDependencies": {
